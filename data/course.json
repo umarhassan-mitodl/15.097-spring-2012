@@ -1,0 +1,58 @@
+{
+  "term": "Spring",
+  "year": "2012",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "legacy_uid": "16dc940b-e65b-1c66-eb08-8784a6d611c7",
+  "instructors": {
+    "content": [
+      "d1a399e2-1680-4cbf-989b-7c9ba750b486"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c4258cee-7521-fcb6-a170-395cc220ad26",
+    "website": "15-097-prediction-machine-learning-and-statistics-spring-2012"
+  },
+  "course_title": "Prediction: Machine Learning and Statistics",
+  "course_description": "Prediction is at the heart of almost every scientific discipline, and the study of generalization (that is, prediction) from data is the central topic of machine learning and statistics, and more generally, data mining. Machine learning and statistical methods are used throughout the scientific world for their use in handling the \"information overload\" that characterizes our current digital age. Machine learning developed from the artificial intelligence community, mainly within the last 30 years, at the same time that statistics has made major advances due to the availability of modern computing. However, parts of these two fields aim at the same goal, that is, of prediction from data. This course provides a selection of the most important topics from both of these subjects.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.097",
+  "course_image_thumbnail": {
+    "content": "d5fbc858-aff7-8f0c-aa10-7d7fcb12233c",
+    "website": "15-097-prediction-machine-learning-and-statistics-spring-2012"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects with Examples",
+    "Instructor Insights"
+  ],
+  "site_uid": "312dbae3-a02a-4454-aa78-f4c620ec2c5e",
+  "site_short_id": "15.097-spring-2012",
+  "site_url_path": "courses/15-097-prediction-machine-learning-and-statistics-spring-2012",
+  "title": "Course Metadata"
+}

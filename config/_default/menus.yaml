@@ -1,0 +1,25 @@
+leftnav:
+- identifier: c1b7597f-97f5-d4b7-fd61-1834c8d470a8
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 5e0e033b-44c4-f6b8-5320-af5d09357eb0
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: 5143e461-83a2-7e30-b040-7e1cb73ce3ae
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 30
+- identifier: 0d9ec76a-b460-bb80-b298-4e92ef5a9be6
+  name: Projects
+  pageRef: /pages/projects
+  weight: 40
+- identifier: e276c107-67b9-4674-a212-bb217c47f9ba
+  name: Datasets
+  pageRef: /pages/datasets
+  weight: 50
+- identifier: 862ab386-76b5-c53a-8db3-c312e1fc22a2
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 60
