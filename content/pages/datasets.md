@@ -10,7 +10,7 @@ video_metadata:
   youtube_id: null
 ---
 
-These datasets are from the {{% resource_link "e6744487-3df5-4454-9fe6-91da1ca4c9ed" "UCI Machine Learning Repository" %}}, and are discussed in Lecture 2: R for Machine Learning.
+These datasets are from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php), and are discussed in Lecture 2: R for Machine Learning.
 
 {{< tableopen >}}
 {{< theadopen >}}

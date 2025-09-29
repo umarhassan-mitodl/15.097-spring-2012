@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, audience, prerequisites, related courses, requirements, additional
   references, and an outline of course material.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -118,15 +120,15 @@ Additional References (Optional)
 
 Russell, Stuart, and Peter Norvig. _Artificial Intelligence: A Modern Approach_. 3rd ed. Prentice Hall, 2009. ISBN: 9780136042594.
 
-Hastie, Trevor, Robert Tibshirani, and Jerome Friedman. _The Elements of Statistical Learning: Data Mining, Inference, and Prediction_. 2nd ed. Springer, 2009. ISBN: 9780387848570. \[Preview with {{% resource_link "c8b33247-e324-4a25-934f-2a0a10ed0515" "Google Books" %}}\]
+Hastie, Trevor, Robert Tibshirani, and Jerome Friedman. _The Elements of Statistical Learning: Data Mining, Inference, and Prediction_. 2nd ed. Springer, 2009. ISBN: 9780387848570. \[Preview with [Google Books](http://books.google.com/books?id=tVIjmNS3Ob8C&printsec=frontcover)\]
 
 Cristianini, Nello, and John Shawe-Taylor. _An Introduction to Support Vector Machines and Other Kernel-based Learning Methods_. Cambridge University Press, 2000. ISBN: 9780521780193.
 
 Gelman, Andrew, et al. _Bayesian Data Analysis_. 2nd ed. Chapman and Hall/CRC, 2003. ISBN: 9781584883883.
 
-Bousquet, Olivier, Stéphane Boucheron, and Gábor Lugosi. {{% resource_link "3d02f373-00b5-43cf-abcb-3c81f6b3792a" "_Introduction to Statistical Learning Theory_. (PDF)" %}}
+Bousquet, Olivier, Stéphane Boucheron, and Gábor Lugosi. [_Introduction to Statistical Learning Theory_. (PDF)](http://www.econ.upf.edu/~lugosi/mlss_slt.pdf)
 
-Wu, Xindong, et al. {{% resource_link "a221ab24-79a7-48b1-876f-d634eb511d3e" "\"Top 10 Algorithms in Data Mining.\" (PDF)" %}} _Knowledge and Information Systems_ 14 (2008): 1-37.
+Wu, Xindong, et al. ["Top 10 Algorithms in Data Mining." (PDF)](https://link.springer.com/article/10.1007/s10115-007-0114-2) _Knowledge and Information Systems_ 14 (2008): 1-37.
 
 Course Material
 ---------------
