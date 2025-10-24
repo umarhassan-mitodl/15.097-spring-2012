@@ -36,7 +36,6 @@
     "website": "15-097-prediction-machine-learning-and-statistics-spring-2012"
   },
   "course_title": "Prediction: Machine Learning and Statistics",
-  "hide_download": true,
   "course_description": "Prediction is at the heart of almost every scientific discipline, and the study of generalization (that is, prediction) from data is the central topic of machine learning and statistics, and more generally, data mining. Machine learning and statistical methods are used throughout the scientific world for their use in handling the \"information overload\" that characterizes our current digital age. Machine learning developed from the artificial intelligence community, mainly within the last 30 years, at the same time that statistics has made major advances due to the availability of modern computing. However, parts of these two fields aim at the same goal, that is, of prediction from data. This course provides a selection of the most important topics from both of these subjects.\n",
   "department_numbers": [
     "15"
@@ -47,7 +46,6 @@
     "content": "d5fbc858-aff7-8f0c-aa10-7d7fcb12233c",
     "website": "15-097-prediction-machine-learning-and-statistics-spring-2012"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Projects with Examples",
